@@ -1,2 +1,2 @@
 # notes
-Personal notes using [https://orgmode.org/](Org Mode).
+Personal notes using [Org Mode](https://orgmode.org/).
